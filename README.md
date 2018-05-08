@@ -6,13 +6,14 @@ Alexa-to-Discord is a work in progress Alexa skill which allows users to interec
 ***
 
 ## Table of Contents
- - [Features](Features)
-    - [Current Features](#Current-Features)
-    - [Planned Features](#Planned-Features)
- - [Generating your Discord token](#Generating-your-Discord-token)
- - [Deploying the Application](#Deploying-the-Application)
-    - [Deploying to Heroku](#Deploying-to-Heroku)
- - [Creating the Alexa Skill](#Creating-the-Alexa-Skill)
+- [Features](#features)
+  - [Current Features](#current-features)
+  - [Planned Features](#planned-features)
+- [Setup Instructions](#setup-instructions)
+  - [Generating your Discord token](#generating-your-discord-token)
+  - [Deploying the Application](#deploying-the-application)
+    - [Deploying to Heroku](#deploying-to-heroku)
+  - [Creating the Alexa Skill](#creating-the-alexa-skill)
  
  ***
  
